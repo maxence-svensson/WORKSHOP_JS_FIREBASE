@@ -103,9 +103,9 @@ Perfect. That should work now it's up to you guys. :+1:
 <!-- USAGE EXAMPLES -->
 ### Instruction
 
-* Create Project
+* Build project
 ```sh
-ng new workshop_firebase
+npm install
 ```
 
 <!-- USAGE EXAMPLES -->
